@@ -1,8 +1,6 @@
-# More Europa ML Experiments
+# ML Experiments
 
-This repository contains machine learning experiments and shared resources for the More Europa project. It provides a structured approach to running reproducible ML workflows, managing shared datasets, and leveraging common libraries and scripts.
-
-- Document with the main information about the project - [More Europa_ ML upgrade](https://quintenit-my.sharepoint.com/:w:/r/personal/b_kopin_quinten-health_com/_layouts/15/Doc.aspx?sourcedoc=%7BE158189A-1F34-4CCE-AD25-0CE0F0C2FE82%7D&file=More%20Europa_%20ML%20upgrade.docx&action=default&mobileredirect=true)
+This repository contains machine learning experiments and shared resources as template repo/project. It provides a structured approach to running reproducible ML workflows, managing shared datasets, and leveraging common libraries and scripts.
 
 ## Structure Overview
 
