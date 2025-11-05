@@ -1,0 +1,5 @@
+outs:
+- md5: 1d6eba7f7c496a75a97357a4bcc2947f
+  size: 648226
+  hash: md5
+  path: registry_names_dataset.json

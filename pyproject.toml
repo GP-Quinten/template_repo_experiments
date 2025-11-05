@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "registry-catalog-data-science"
+version = "0.1.0"
+description = ""
+authors = [
+    "Boris Kopin <b.kopin@quinten-france.com>",
+]
+readme = "README.md"
+packages = [
+    { include = "more_europa", from = "src" },
+    { include = "llm_inference", from = "src" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+tqdm = "^4.67.1"
+openpyxl = "^3.1.5"
+mistralai = "^1.5.0"
+mistral-common = "^1.5.2"
+python-dotenv = "^1.0.1"
+dvc = "^3.59.0"
+openai = "^1.61.1"
+matplotlib = "^3.10.0"
+weaviate-client = "^4.11.0"
+snakemake = "^8.28.0"
+dvc-s3 = "^3.2.0"
+pytest = "^8.3.5"
+pytest-asyncio = "^0.25.3"
+ipykernel = "^6.29.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
